@@ -16,7 +16,7 @@ cd Birthday
 &&
 
 ```
-python -m SimpleHTTPServer --port  8081
+python -m http.server 8081
 ```
 
 visit http://localhost:8081 in your browser.
